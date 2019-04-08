@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.container{
+    background-color:#ffffff;
+    padding:20px;
+    border-radius:16px;
+}
+body{
+    background-image:url("http://lorempixel.com/output/abstract-q-c-1000-1000-7.jpg");
+}
